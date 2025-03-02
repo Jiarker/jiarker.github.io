@@ -4,13 +4,14 @@ description: "蒙弈帆的个人主页"
 avatar: images/cover2.jpg
 favicon: images/favicon.ico
 
-navigation:
-  - name: 首页
-    url: /
-  - name: 关于
-    url: /about
-  - name: 分类
-    url: /tags
+# 导航配置
+# navigation:
+#   - name: 首页
+#     url: /
+#   - name: 关于
+#     url: /about
+#   - name: 分类
+#     url: /tags
 
 paginate: 8
 
