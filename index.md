@@ -5,15 +5,17 @@ title: Yifan Meng's Profile
 
 <div style="text-align: center; font-size: 36px; line-height: 36px;">
     <strong style="display: inline-block;">Yifan Meng(蒙弈帆)</strong>
-    <a href="mailto:jimmyjiarker@gmail.com" target="_blank" style="display: inline-block; margin-left: 10px; vertical-align: middle;">
-        <img src="images/gmail.png" alt="Email" width="30" height="30" style="vertical-align: middle;">
-    </a>
-    <a href="https://www.zhihu.com/people/33-10-19-7" target="_blank" style="display: inline-block; margin-left: 10px; vertical-align: middle;">
-        <img src="images/zhihu.png" alt="Zhihu" width="30" height="30" style="vertical-align: middle;">
-    </a>
-    <a href="https://github.com/Jiarker" target="_blank" style="display: inline-block; vertical-align: middle;">
-        <img src="images/github.png" alt="GitHub" width="30" height="30" style="vertical-align: middle;">
-    </a>
+    <div style="display: inline-block; vertical-align: middle; margin-left: 10px;">
+        <a href="mailto:jimmyjiarker@gmail.com" target="_blank">
+            <img src="images/gmail.png" alt="Email" width="30" height="30" style="vertical-align: middle;">
+        </a>
+        <a href="https://www.zhihu.com/people/33-10-19-7" target="_blank">
+            <img src="images/zhihu.png" alt="Zhihu" width="30" height="30" style="vertical-align: middle;">
+        </a>
+        <a href="https://github.com/Jiarker" target="_blank">
+            <img src="images/github.png" alt="GitHub" width="30" height="30" style="vertical-align: middle;">
+        </a>
+    </div>
 </div>
 
 ## Personal Introduction
