@@ -5,7 +5,7 @@ title: Yifan Meng's Profile
 
 
 
-<div style="text-align: center; font-size: 36px; margin-top: 50px;">
+<div style="text-align: center; font-size: 36px; margin-top: 120px;">
     <strong>Yifan Meng(蒙弈帆)</strong>
 </div>
 <div style="display: flex; justify-content: center; margin-top: 20px;">
@@ -19,6 +19,7 @@ title: Yifan Meng's Profile
         <img src="images/github.png" alt="GitHub" width="30" height="30">
     </a>
 </div>
+
 
 
 
