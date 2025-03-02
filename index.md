@@ -4,15 +4,14 @@ title: Yifan Meng's Profile
 ---
 
 # Yifan Meng(蒙弈帆)
-
 <a href="mailto:jimmyjiarker@gmail.com" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="/images/gmail.png" alt="Email" width="30" height="30">
+    <img src="images/gmail.png" alt="Email" width="30" height="30">
 </a>
 <a href="https://www.zhihu.com/people/33-10-19-7" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="/images/zhihu.png" alt="Zhihu" width="30" height="30">
+    <img src="images/zhihu.png" alt="Zhihu" width="30" height="30">
 </a>
 <a href="https://github.com/Jiarker" target="_blank" style="display: inline-block;">
-    <img src="/images/github.png" alt="GitHub" width="30" height="30">
+    <img src="images/github.png" alt="GitHub" width="30" height="30">
 </a>
 
 ## Personal Introduction
