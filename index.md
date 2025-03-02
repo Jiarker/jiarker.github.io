@@ -3,16 +3,18 @@ layout: default
 title: Yifan Meng's Profile
 ---
 
-# Yifan Meng(蒙弈帆)
-<a href="mailto:jimmyjiarker@gmail.com" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="images/gmail.png" alt="Email" width="30" height="30">
-</a>
-<a href="https://www.zhihu.com/people/33-10-19-7" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="images/zhihu.png" alt="Zhihu" width="30" height="30">
-</a>
-<a href="https://github.com/Jiarker" target="_blank" style="display: inline-block;">
-    <img src="images/github.png" alt="GitHub" width="30" height="30">
-</a>
+<div style="text-align: center;">
+    <strong style="font-size: 36px;">Yifan Meng(蒙弈帆)</strong>
+    <a href="mailto:jimmyjiarker@gmail.com" target="_blank" style="display: inline-block; margin-left: 10px;">
+        <img src="images/gmail.png" alt="Email" width="30" height="30">
+    </a>
+    <a href="https://www.zhihu.com/people/33-10-19-7" target="_blank" style="display: inline-block; margin-left: 10px;">
+        <img src="images/zhihu.png" alt="Zhihu" width="30" height="30">
+    </a>
+    <a href="https://github.com/Jiarker" target="_blank" style="display: inline-block;">
+        <img src="images/github.png" alt="GitHub" width="30" height="30">
+    </a>
+</div>
 
 ## Personal Introduction
 
