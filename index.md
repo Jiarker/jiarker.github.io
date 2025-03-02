@@ -3,10 +3,11 @@ layout: default
 title: Yifan Meng's Profile
 ---
 
-<div style="text-align: center; font-size: 36px;">
+
+
+<div style="text-align: center; font-size: 36px; margin-top: 50px;">
     <strong>Yifan Meng(蒙弈帆)</strong>
 </div>
-
 <div style="display: flex; justify-content: center; margin-top: 20px;">
     <a href="mailto:jimmyjiarker@gmail.com" target="_blank" style="margin-right: 10px;">
         <img src="images/gmail.png" alt="Email" width="30" height="30">
@@ -17,7 +18,9 @@ title: Yifan Meng's Profile
     <a href="https://github.com/Jiarker" target="_blank">
         <img src="images/github.png" alt="GitHub" width="30" height="30">
     </a>
-</div>
+</div>
+
+
 
 
 ## Personal Introduction
