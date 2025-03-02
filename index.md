@@ -44,11 +44,4 @@ My research interests are computer vision, continual learning.
 
 
 
-## Contact Information
-
-- Email：[jimmyjiarker@gmail.com](mailto:jimmyjiarker@gmail.com)
-- GitHub：[https://github.com/Jiarker](https://github.com/Jiacker)
-
-
-
 ## News
