@@ -1,11 +1,13 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Yifan Meng's Profile
 ---
 
-## About me
+# Yifan Meng
 
-I'm Yifan Meng from the School of Artificial Intelligence, Xidian University. I'm going to be doing my PhD at the School of Computer Science, Nankai University
+## 个人简介
+我是一名软件工程师，专注于 Web 开发和人工智能。
 
-email: jimmyjiarker@gmail.com
+## 联系方式
+- 邮箱：[jimmyjiarker@gmail.com](mailto:jimmyjiarker@gmail.com)
+- GitHub：[https://github.com/Jiarker](https://github.com/Jiacker)
