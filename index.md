@@ -5,7 +5,6 @@ title: Yifan Meng's Profile
 
 # Yifan Meng(蒙弈帆)
 
-```markdown
 <a href="mailto:jimmyjiarker@gmail.com" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img src="/images/gmail.png" alt="Email" width="30" height="30">
 </a>
@@ -15,7 +14,6 @@ title: Yifan Meng's Profile
 <a href="https://github.com/Jiarker" target="_blank" style="display: inline-block;">
     <img src="/images/github.png" alt="GitHub" width="30" height="30">
 </a>
-```
 
 ## Personal Introduction
 
