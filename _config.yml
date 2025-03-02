@@ -2,7 +2,7 @@ name: "Yifan Meng's blog"
 description: "蒙弈帆的个人技术博客"
 
 avatar: images/cover.jpg
-favicon: https://pianfan.github.io/images/favicon.ico
+favicon: images/favicon.ico
 
 navigation:
   - name: 首页
