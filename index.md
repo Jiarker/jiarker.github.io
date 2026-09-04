@@ -46,6 +46,8 @@ My research interests include computer vision, continual learning, and hallucina
 
 ## Recent Publications
 
+Notes: Equal contribution are indicated using † and corresponding authors are indicated using *.
+
 **2026**
 
 Visual Representation Regularization for Multimodal Hallucination Mitigation, **Yifan Meng†**, Enguang Wang†, Xusheng Cao, Fei Yang, Xialei Liu*, EMNNLP 2026 Findings
