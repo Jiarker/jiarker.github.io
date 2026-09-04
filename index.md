@@ -50,14 +50,14 @@ Notes: Equal contribution are indicated using † and corresponding authors are 
 
 **2026**
 
-Visual Representation Regularization for Multimodal Hallucination Mitigation, **Yifan Meng†**, Enguang Wang†, Xusheng Cao, Fei Yang, Xialei Liu*, EMNNLP 2026 Findings
++ Visual Representation Regularization for Multimodal Hallucination Mitigation, **Yifan Meng†**, Enguang Wang†, Xusheng Cao, Fei Yang, Xialei Liu*, EMNNLP 2026 Findings
 
-Towards understanding token evolving in continual learning of MLLMs, Xusheng Cao, **Yifan Meng**, Linlan Huang, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Fei Yang, Xialei Liu, IJCV 2026 
++ Towards understanding token evolving in continual learning of MLLMs, Xusheng Cao, **Yifan Meng**, Linlan Huang, Jiaze Li, Jianzhong Ju, Zhenbo Luo, Jian Luan, Fei Yang, Xialei Liu, IJCV 2026 
 
 **2025** 
 
-Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning, Linlan Huang, Xusheng Cao, Haori Lu, **Yifan Meng**, Fei Yang, Xialei Liu*, ICCV 2025 (Highlight).
++ Mind the Gap: Preserving and Compensating for the Modality Gap in CLIP-Based Continual Learning, Linlan Huang, Xusheng Cao, Haori Lu, **Yifan Meng**, Fei Yang, Xialei Liu*, ICCV 2025 (Highlight).
 
-FAFormer: Frequency-Analysis-Based Transformer Focusing on Correlation and Specificity for Pansharpening, **Yifan Meng**, Hao Zhu, Xiaoyu Yi, Biao Hou, Shuang Wang, Yuan Wang, Kefan Chen, and Licheng Jiao, TGRS 2025
++ FAFormer: Frequency-Analysis-Based Transformer Focusing on Correlation and Specificity for Pansharpening, **Yifan Meng**, Hao Zhu, Xiaoyu Yi, Biao Hou, Shuang Wang, Yuan Wang, Kefan Chen, and Licheng Jiao, TGRS 2025
 
-CIGformer: Leveraging Continuous Information Guidance in Transformer-Based Pansharpening, Hao Zhu, Yuan Wang, Xiaotong Li, Biao Hou, Bo Ren, **Yifan Meng**, Kefan Chen, and Licheng Jiao, TAI 2026
++ CIGformer: Leveraging Continuous Information Guidance in Transformer-Based Pansharpening, Hao Zhu, Yuan Wang, Xiaotong Li, Biao Hou, Bo Ren, **Yifan Meng**, Kefan Chen, and Licheng Jiao, TAI 2026
